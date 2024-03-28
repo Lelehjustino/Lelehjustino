@@ -11,6 +11,6 @@
   <li> <a href="https://br.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a/></li>
 </ul>
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelehjustino&show_icons=true&theme=transparent&hide_title=true&hide_border=true&text_color=fff&text_bold=false&amp;card_width=100)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelehjustino&hide_title=true&theme=transparent&hide_border=true&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lelehjustino)](https://github.com/anuraghazra/github-readme-stats)
+
