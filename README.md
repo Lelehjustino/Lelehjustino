@@ -9,7 +9,7 @@
 <p>These are my social media:</p>
 <ul>
   <li> <a href="https://www.instagram.com/leh_justino_wehbe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a/></li>
-  <li> <a href="https://br.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a/></li>
+  <li> <a href="[https://br.linkedin.com/](https://www.linkedin.com/in/let%C3%ADcia-justino-wehbe-04a035302/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a/></li>
 </ul>
 <div>
 
