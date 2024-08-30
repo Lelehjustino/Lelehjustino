@@ -1,5 +1,5 @@
 <h1>Olá, me chamo Letícia Justino Wehbe<h1/>
-<h2>Sou uma desenvolvedora Front-End. Tenho conhecimento de HTML, CSS, JvaScript e React. Além do conhecimento técnico nessas tecnologias já desenvolvi vários projetos práticos com elas</h2>
+<h2>Sou uma desenvolvedora Front-End. Tenho conhecimento de HTML, CSS e JavaScript. Além do conhecimento técnico nessas tecnologias já desenvolvi vários projetos práticos com elas</h2>
 <p>Uso as seguintes técnologias:</p>
 <ul>
   <li> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> </li>
