@@ -11,7 +11,7 @@
 <p>Essas são as minhas redes sociais:</p>
 <ul>
   <li> <a href="https://www.linkedin.com/in/let%C3%ADcia-justino-wehbe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a/>
-  <li> <a href="lehjustinowehbe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
+  <li> <a href="mailto:lehjustinowehbe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
   </li>
 </ul>
 <div>
