@@ -9,7 +9,8 @@
 </ul>
   
 <p>Uso as seguintes técnologias em Back End:</p>
-   <li> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
+<ul>
+  <li> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
   <li> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></li>
 </ul>
 
