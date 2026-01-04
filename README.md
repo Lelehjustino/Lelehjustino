@@ -55,16 +55,12 @@ expandir meus conhecimentos e evoluir como desenvolvedora.
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 📈 GitHub Activity Graph
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Lelehjustino&show_icons=true&theme=dracula"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelehjustino&layout=compact&theme=dracula"
-    height="160"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lelehjustino&theme=dracula&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
