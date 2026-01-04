@@ -70,5 +70,5 @@ expandir meus conhecimentos e evoluir como desenvolvedora.
 
 
 <p align="center">
-   Sempre aprendendo • Sempre evoluindo • Sempre codando
+   Sempre aprendendo • Sempre evoluindo • Sempre codificando
 </p>
