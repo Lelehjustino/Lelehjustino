@@ -55,15 +55,6 @@ expandir meus conhecimentos e evoluir como desenvolvedora.
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Lelehjustino&theme=dracula&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
 
 <p align="center">
    Sempre aprendendo • Sempre evoluindo • Sempre codificando
